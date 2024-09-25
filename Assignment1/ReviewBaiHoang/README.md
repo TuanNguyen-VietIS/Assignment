@@ -1,6 +1,6 @@
 
-Bài tập của: Nguyễn Minh Hoàng
-Link github: https://github.com/ngminhoang/vietis-BaiTapBuoi1.git
+Bài tập của: Nguyễn Minh Hoàng <br>
+Link github: https://github.com/ngminhoang/vietis-BaiTapBuoi1.git <br>
 Người đánh giá: Nguyễn Văn Tuấn
 
 Bài 1:
